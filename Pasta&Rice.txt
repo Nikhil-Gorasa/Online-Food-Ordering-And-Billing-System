@@ -1,0 +1,10 @@
+Vegetable Pulao,160
+Masala Dosa,100
+Hyderabadi Biryani,280
+Veg Fried Rice,180
+Jeera Rice,120
+Tomato Rice,150
+Mushroom Pulao,200
+Paneer Fried Rice,200
+Lemon Rice,140
+Schezwan Noodles,180

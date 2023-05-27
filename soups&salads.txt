@@ -1,0 +1,10 @@
+Tomato Shorba,100
+Corn Salad,130
+Lentil Soup (Dal),90
+Kachumber Salad,110
+Coconut Soup,120
+Sprout Salad,100
+Rasam,80
+Cucumber Raita,70
+Mixed Green Salad,150
+Sweet Corn Soup,110

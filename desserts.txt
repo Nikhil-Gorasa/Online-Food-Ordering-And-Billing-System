@@ -1,0 +1,10 @@
+Gulab Jamun,80
+Rasmalai,99
+Kheer,90
+Gajar Halwa,99
+Jalebi,50
+Mango Lassi,99
+Kulfi,80
+Rasgulla,90
+Shahi Tukda,130
+Falooda,110

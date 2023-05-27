@@ -1,0 +1,10 @@
+Samosa,20
+Paneer Tikka,180
+Vegetable Pakora,120
+Aloo Tikki,50
+Chicken 65,220
+Hara Bhara Kebab,150
+Pani Puri,80
+Gobi Manchurian,160
+Fish Amritsari,250
+Onion Bhaji,100

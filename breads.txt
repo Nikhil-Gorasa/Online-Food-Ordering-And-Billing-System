@@ -1,0 +1,10 @@
+Naan,40
+Roti,20
+Garlic Naan,60
+Paratha,50
+Butter Naan,50
+Aloo Paratha,80
+Puri,30
+Laccha Paratha,70
+Tandoori Roti,30
+Kulcha,60

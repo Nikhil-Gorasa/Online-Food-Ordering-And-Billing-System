@@ -1,0 +1,10 @@
+Butter Chicken,250
+Vegetable Biryani,200
+Palak Paneer,180
+Rogan Josh,280
+Chole Bhature,150
+Tandoori Fish,300
+Kadai Paneer,220
+Chicken Curry,240
+Aloo Gobi,160
+Mutton Biryani,300

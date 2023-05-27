@@ -1,0 +1,10 @@
+Masala Chai,40
+Mango Shake,100
+Fresh Lime Soda,60
+Lassi (Sweet),80
+Coconut Water,50
+Badam Milk,90
+Thandai,120
+Cold Coffee,100
+Rose Milk,70
+Sugarcane Juice,80
